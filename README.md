@@ -1,2 +1,2 @@
-# Type-Script3
+# Type-Script2
 Created with CodeSandbox
